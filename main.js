@@ -1,56 +1,56 @@
 
-//aplausos
-function tocaSomAplausos(){
-    document.querySelector("#som_tecla_aplausos").play();
+//saiadin
+function tocaSomSaiadin(){
+    document.querySelector("#som_tecla_saiadin").play();
 }
-document.querySelector(".tecla_aplausos").onclick = tocaSomAplausos;
-//vaia
-function tocaSomVaias(){
-    document.querySelector("#som_tecla_vaia").play();
+document.querySelector(".tecla_saiadin").onclick = tocaSomSaiadin;
+//voar
+function tocaSomVoar(){
+    document.querySelector("#som_tecla_voar").play();
 }
-document.querySelector(".tecla_vaia").onclick = tocaSomVaias;
+document.querySelector(".tecla_voar").onclick = tocaSomVoar;
 
-//risada
-function tocaSomRisada(){
-    document.querySelector("#som_tecla_risada").play();
+//flash
+function tocaSomFlash(){
+    document.querySelector("#som_tecla_flash").play();
 }
-document.querySelector(".tecla_risada").onclick = tocaSomRisada;
+document.querySelector(".tecla_flash").onclick = tocaSomFlash;
 
-//errado
-function tocaSomErrado(){
-    document.querySelector("#som_tecla_errado").play();
+//thor
+function tocaSomThor(){
+    document.querySelector("#som_tecla_thor").play();
 }
-document.querySelector(".tecla_errado").onclick = tocaSomErrado;
+document.querySelector(".tecla_thor").onclick = tocaSomThor;
 
-//grilo
-function tocaSomGrilo(){
-    document.querySelector("#som_tecla_grilo").play();
+//miranha
+function tocaSomMiranha(){
+    document.querySelector("#som_tecla_miranha").play();
 }
-document.querySelector(".tecla_grilo").onclick = tocaSomGrilo;
+document.querySelector(".tecla_miranha").onclick = tocaSomMiranha;
 
-//tambores
-function tocaSomTambores(){
-    document.querySelector("#som_tecla_tambores").play();
+//hulk
+function tocaSomHulk(){
+    document.querySelector("#som_tecla_hulk").play();
 }
-document.querySelector(".tecla_tambores").onclick = tocaSomTambores;
+document.querySelector(".tecla_hulk").onclick = tocaSomHulk;
 
-//trombeta
-function tocaSomTrombeta(){
-    document.querySelector("#som_tecla_trombeta").play();
+//batman
+function tocaSomBatman(){
+    document.querySelector("#som_tecla_batman").play();
 }
-document.querySelector(".tecla_trombeta").onclick = tocaSomTrombeta;
+document.querySelector(".tecla_batman").onclick = tocaSomBatman;
 
-//dinheiro
-function tocaSomDinheiro(){
-    document.querySelector("#som_tecla_dinheiro").play();
+//ferro
+function tocaSomFerro(){
+    document.querySelector("#som_tecla_ferro").play();
 }
-document.querySelector(".tecla_dinheiro").onclick = tocaSomDinheiro;
+document.querySelector(".tecla_ferro").onclick = tocaSomFerro;
 
-//vitoria
-function tocaSomVitoria(){
-    document.querySelector("#som_tecla_vitoria").play();
+//america
+function tocaSomAmerica(){
+    document.querySelector("#som_tecla_america").play();
 }
-document.querySelector(".tecla_vitoria").onclick = tocaSomVitoria;
+document.querySelector(".tecla_america").onclick = tocaSomAmerica;
 /*
 
 function tocaSom(idElementoAudio){
